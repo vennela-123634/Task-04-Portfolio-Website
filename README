@@ -1,1 +1,11 @@
-
+Task-04: Personal Portfolio Website
+This project is a personal portfolio website designed to showcase skills, projects, and accomplishments as a web developer.
+Features
+Visual Appeal: Features an attractive and visually appealing layout crafted to capture visitors' attention.
+Home Page: Includes a captivating headline, a professional photo, and a summary of skills.
+About Me Section: Provides a detailed background, education, and professional experience.
+Live Demo
+Check out the live website here: https://vennela-123634.github.io/Task-04-Portfolio-Website/
+How to Run Locally
+Clone this repository: git clone [https://github.com/vennela-123634/Task-04-Portfolio.git](https://github.com/vennela-123634/Task-04-Portfolio.git)
+Open index.html in your web browser to view the application.
